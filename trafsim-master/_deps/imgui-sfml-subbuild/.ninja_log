@@ -1,0 +1,21 @@
+# ninja log v5
+0	7	1747731060608000301	imgui-sfml-populate-prefix/src/imgui-sfml-populate-stamp/imgui-sfml-populate-mkdir	daa895fbd7eb5a44
+0	7	1747731060608000301	/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-subbuild/imgui-sfml-populate-prefix/src/imgui-sfml-populate-stamp/imgui-sfml-populate-mkdir	daa895fbd7eb5a44
+7	851	1747731061451990880	imgui-sfml-populate-prefix/src/imgui-sfml-populate-stamp/imgui-sfml-populate-download	48c84434752d9747
+7	851	1747731061451990880	/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-subbuild/imgui-sfml-populate-prefix/src/imgui-sfml-populate-stamp/imgui-sfml-populate-download	48c84434752d9747
+852	864	0	imgui-sfml-populate-prefix/src/imgui-sfml-populate-stamp/imgui-sfml-populate-update	a80e96c0df3fcbc
+852	864	0	/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-subbuild/imgui-sfml-populate-prefix/src/imgui-sfml-populate-stamp/imgui-sfml-populate-update	a80e96c0df3fcbc
+864	870	1747731061470990668	imgui-sfml-populate-prefix/src/imgui-sfml-populate-stamp/imgui-sfml-populate-patch	bce2e38225b543f0
+864	870	1747731061470990668	/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-subbuild/imgui-sfml-populate-prefix/src/imgui-sfml-populate-stamp/imgui-sfml-populate-patch	bce2e38225b543f0
+870	875	1747731061475990612	imgui-sfml-populate-prefix/src/imgui-sfml-populate-stamp/imgui-sfml-populate-configure	bea680be302e5166
+870	875	1747731061475990612	/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-subbuild/imgui-sfml-populate-prefix/src/imgui-sfml-populate-stamp/imgui-sfml-populate-configure	bea680be302e5166
+876	881	1747731061481990545	imgui-sfml-populate-prefix/src/imgui-sfml-populate-stamp/imgui-sfml-populate-build	b9b24d16475b14b3
+876	881	1747731061481990545	/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-subbuild/imgui-sfml-populate-prefix/src/imgui-sfml-populate-stamp/imgui-sfml-populate-build	b9b24d16475b14b3
+882	887	1747731061487990478	imgui-sfml-populate-prefix/src/imgui-sfml-populate-stamp/imgui-sfml-populate-install	ceb537672bba450d
+882	887	1747731061487990478	/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-subbuild/imgui-sfml-populate-prefix/src/imgui-sfml-populate-stamp/imgui-sfml-populate-install	ceb537672bba450d
+887	892	1747731061492990423	imgui-sfml-populate-prefix/src/imgui-sfml-populate-stamp/imgui-sfml-populate-test	564024457b54f0e6
+887	892	1747731061492990423	/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-subbuild/imgui-sfml-populate-prefix/src/imgui-sfml-populate-stamp/imgui-sfml-populate-test	564024457b54f0e6
+892	900	1747731061500990333	CMakeFiles/imgui-sfml-populate-complete	7f011c2d44fdb2f3
+892	900	1747731061500990333	imgui-sfml-populate-prefix/src/imgui-sfml-populate-stamp/imgui-sfml-populate-done	7f011c2d44fdb2f3
+892	900	1747731061500990333	/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-subbuild/CMakeFiles/imgui-sfml-populate-complete	7f011c2d44fdb2f3
+892	900	1747731061500990333	/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-subbuild/imgui-sfml-populate-prefix/src/imgui-sfml-populate-stamp/imgui-sfml-populate-done	7f011c2d44fdb2f3

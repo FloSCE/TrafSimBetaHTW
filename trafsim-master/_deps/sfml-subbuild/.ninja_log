@@ -1,0 +1,21 @@
+# ninja log v5
+1	12	1747731016196496028	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	ca05155fb20f2978
+1	12	1747731016196496028	/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	ca05155fb20f2978
+12	16215	1747731032399315165	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	90ff5f1227c3a97d
+12	16215	1747731032399315165	/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	90ff5f1227c3a97d
+16215	16228	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	d9f713c44077fbfd
+16215	16228	0	/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	d9f713c44077fbfd
+16228	16234	1747731032419314942	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	72f70c49a2514b92
+16228	16234	1747731032419314942	/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	72f70c49a2514b92
+16234	16240	1747731032426314864	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	428a8429930e4dea
+16234	16240	1747731032426314864	/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	428a8429930e4dea
+16240	16246	1747731032431314808	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	ec0c94e4645e7d2d
+16240	16246	1747731032431314808	/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	ec0c94e4645e7d2d
+16246	16253	1747731032438314730	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	6550eb04f252724a
+16246	16253	1747731032438314730	/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	6550eb04f252724a
+16253	16260	1747731032446314640	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	940ea5ba27fdcf59
+16253	16260	1747731032446314640	/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	940ea5ba27fdcf59
+16260	16269	1747731032454314551	CMakeFiles/sfml-populate-complete	ad79bbefedad4edb
+16260	16269	1747731032454314551	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	ad79bbefedad4edb
+16260	16269	1747731032454314551	/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	ad79bbefedad4edb
+16260	16269	1747731032454314551	/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	ad79bbefedad4edb

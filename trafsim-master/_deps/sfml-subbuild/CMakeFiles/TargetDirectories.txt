@@ -1,0 +1,3 @@
+/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-subbuild/CMakeFiles/sfml-populate.dir
+/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-subbuild/CMakeFiles/edit_cache.dir
+/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-subbuild/CMakeFiles/rebuild_cache.dir
