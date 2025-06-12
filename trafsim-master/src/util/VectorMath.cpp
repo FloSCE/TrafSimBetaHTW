@@ -13,6 +13,11 @@ float VectorMath::Distance(const sf::Vector2f &a, const sf::Vector2f &b)
     return sqrt(pow(b.x - a.x, 2) + pow(b.y - a.y, 2));
 }
 
+float VectorMath::Dot(const sf::Vector2f &a, const sf::Vector2f &b)
+{
+    return a.x * b.x + a.y * b.y;
+}
+
 float VectorMath::Angle(const sf::Vector2f &a, const sf::Vector2f &b)
 {
     return acos((a.x * b.x + a.y * b.y) / (Size(a) * Size(b)));

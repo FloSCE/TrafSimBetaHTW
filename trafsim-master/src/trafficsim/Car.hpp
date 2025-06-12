@@ -1,6 +1,8 @@
 #pragma once
 #include <memory>
 #include <vector>
+#include <list>
+#include <map>
 
 #include <SFML/Graphics.hpp>
 
@@ -23,16 +25,20 @@ public:
     bool isFinished() const { return finished; }
 
     // Inherited from sf::Drawable, draws shape_
-    virtual void draw(sf::RenderTarget &target, sf::RenderStates states) const;
+    virtual void draw(sf::RenderTarget &target, sf::RenderStates states) const override;
 
     // Adds a texture to a std::vector of textures
     static void AddTexture(const sf::Texture *carTexture);
+
+    static unsigned int getAccidentCount() { return accident_count_; }
 
 private:
     void findRoute();
     // returns true if there is nothing infront of the car
     // TODO - more efficient collider algorithm eg. raycast
     void calculateVelocity(float deltatime, const std::vector<std::unique_ptr<Car>> &cars, const std::map<unsigned int, std::unique_ptr<TrafficLightNetwork>> &light_handlers);
+    bool checkAccident(const std::vector<std::unique_ptr<Car>> &cars);
+    void handleAccident();
     
 private:
     const std::shared_ptr<Node> pos_, dest_;
@@ -45,6 +51,8 @@ private:
     bool finished = false;
     sf::Vector2f dir_;
     static std::vector<const sf::Texture*> Textures_;
+    bool is_in_accident_ = false;
+    static unsigned int accident_count_;
 
 };
 

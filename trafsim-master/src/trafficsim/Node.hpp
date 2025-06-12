@@ -5,6 +5,7 @@
 #include <memory>    //std::shared_ptr
 #include <algorithm> //std::remove_if
 #include <cstdint>   //std::uint8_t
+#include <map>
 
 #include <SFML/Graphics.hpp>
 
@@ -40,6 +41,9 @@ public:
     // Its drawable only for debugging purpouses
     virtual void draw(sf::RenderTarget &target, sf::RenderStates states) const;
 
+    void setBlocked(bool blocked) { is_blocked_ = blocked; }
+    bool isBlocked() const { return is_blocked_; }
+
 private:
     // Stores position
     const sf::Vector2f position_;
@@ -55,6 +59,8 @@ private:
 
     // For debugging
     sf::CircleShape shape_;
+
+    bool is_blocked_ = false;
 };
 
 std::ostream &operator<<(std::ostream &os, const Node *node);

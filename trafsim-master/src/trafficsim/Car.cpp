@@ -1,4 +1,5 @@
 #include "Car.hpp"
+#include "util/VectorMath.hpp"
 
 #include <iostream>
 #include <algorithm> // std::max
@@ -8,6 +9,7 @@ namespace ts
 {
 
 std::vector<const sf::Texture *> Car::Textures_;
+unsigned int Car::accident_count_ = 0;
 
 Car::Car(const std::shared_ptr<Node> &pos, const std::shared_ptr<Node> &dest, const sf::Vector2f &size)
     : pos_(pos), dest_(dest), prev_(pos), shape_(size), speed_(200), acceleration_(200)
@@ -36,6 +38,12 @@ void Car::update(const sf::Time &game_time, float deltatime, const std::vector<s
     {
         finished = true;
         return;
+    }
+
+    // Prüfe auf mögliche Unfälle
+    if (!is_in_accident_ && checkAccident(cars))
+    {
+        handleAccident();
     }
 
     float delta_step = deltatime * speed_;
@@ -126,5 +134,44 @@ void Car::findRoute()
 {
     std::map<std::shared_ptr<Node>, bool> visited;
     Node::search_AStar(pos_, dest_, visited, route_);
+}
+
+bool Car::checkAccident(const std::vector<std::unique_ptr<Car>> &cars)
+{
+    const float MIN_SAFE_DISTANCE = shape_.getSize().y * 0.1f; // 10% der Fahrzeuglänge als Mindestabstand
+    
+    for (const auto &car : cars)
+    {
+        if (car.get() == this) continue; // Skip own car
+        
+        float distance = VectorMath::Distance(shape_.getPosition(), car->shape_.getPosition());
+        if (distance < MIN_SAFE_DISTANCE)
+        {
+            // Check if the cars are driving in the same direction
+            if (VectorMath::Dot(dir_, car->dir_) > 0.8f) // If the direction vectors are almost parallel
+            {
+                return true;
+            }
+        }
+    }
+    return false;
+}
+
+void Car::handleAccident()
+{
+    is_in_accident_ = true;
+    speed_ = 0;
+    accident_count_++; // Increase accident counter
+    
+    // Block the current road section
+    if (prev_ && route_.size() > 0)
+    {
+        // Mark the current road section as blocked
+        prev_->setBlocked(true);
+        route_.front()->setBlocked(true);
+        
+        // Search for alternative route
+        findRoute();
+    }
 }
 } // namespace ts

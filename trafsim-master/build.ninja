@@ -51,8 +51,6 @@ build CMakeFiles/trafsim-master.dir/src/trafficsim/BuildingHandler.cpp.o: CXX_CO
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/trafficsim
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 build CMakeFiles/trafsim-master.dir/src/trafficsim/BuildingTile.cpp.o: CXX_COMPILER__trafsim-master_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src/trafficsim/BuildingTile.cpp || cmake_object_order_depends_target_trafsim-master
   DEFINES = -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -61,8 +59,6 @@ build CMakeFiles/trafsim-master.dir/src/trafficsim/BuildingTile.cpp.o: CXX_COMPI
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/trafficsim
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 build CMakeFiles/trafsim-master.dir/src/trafficsim/Car.cpp.o: CXX_COMPILER__trafsim-master_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src/trafficsim/Car.cpp || cmake_object_order_depends_target_trafsim-master
   DEFINES = -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -71,8 +67,6 @@ build CMakeFiles/trafsim-master.dir/src/trafficsim/Car.cpp.o: CXX_COMPILER__traf
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/trafficsim
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 build CMakeFiles/trafsim-master.dir/src/trafficsim/Grid.cpp.o: CXX_COMPILER__trafsim-master_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src/trafficsim/Grid.cpp || cmake_object_order_depends_target_trafsim-master
   DEFINES = -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -81,8 +75,6 @@ build CMakeFiles/trafsim-master.dir/src/trafficsim/Grid.cpp.o: CXX_COMPILER__tra
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/trafficsim
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 build CMakeFiles/trafsim-master.dir/src/trafficsim/HomeBuilding.cpp.o: CXX_COMPILER__trafsim-master_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src/trafficsim/HomeBuilding.cpp || cmake_object_order_depends_target_trafsim-master
   DEFINES = -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -91,8 +83,6 @@ build CMakeFiles/trafsim-master.dir/src/trafficsim/HomeBuilding.cpp.o: CXX_COMPI
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/trafficsim
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 build CMakeFiles/trafsim-master.dir/src/trafficsim/HomeRoad.cpp.o: CXX_COMPILER__trafsim-master_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src/trafficsim/HomeRoad.cpp || cmake_object_order_depends_target_trafsim-master
   DEFINES = -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -101,8 +91,6 @@ build CMakeFiles/trafsim-master.dir/src/trafficsim/HomeRoad.cpp.o: CXX_COMPILER_
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/trafficsim
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 build CMakeFiles/trafsim-master.dir/src/trafficsim/IntersectionTemplates.cpp.o: CXX_COMPILER__trafsim-master_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src/trafficsim/IntersectionTemplates.cpp || cmake_object_order_depends_target_trafsim-master
   DEFINES = -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -111,8 +99,6 @@ build CMakeFiles/trafsim-master.dir/src/trafficsim/IntersectionTemplates.cpp.o: 
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/trafficsim
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 build CMakeFiles/trafsim-master.dir/src/trafficsim/Map.cpp.o: CXX_COMPILER__trafsim-master_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src/trafficsim/Map.cpp || cmake_object_order_depends_target_trafsim-master
   DEFINES = -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -121,8 +107,6 @@ build CMakeFiles/trafsim-master.dir/src/trafficsim/Map.cpp.o: CXX_COMPILER__traf
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/trafficsim
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 build CMakeFiles/trafsim-master.dir/src/trafficsim/MapBuilder.cpp.o: CXX_COMPILER__trafsim-master_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src/trafficsim/MapBuilder.cpp || cmake_object_order_depends_target_trafsim-master
   DEFINES = -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -131,8 +115,6 @@ build CMakeFiles/trafsim-master.dir/src/trafficsim/MapBuilder.cpp.o: CXX_COMPILE
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/trafficsim
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 build CMakeFiles/trafsim-master.dir/src/trafficsim/Node.cpp.o: CXX_COMPILER__trafsim-master_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src/trafficsim/Node.cpp || cmake_object_order_depends_target_trafsim-master
   DEFINES = -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -141,8 +123,6 @@ build CMakeFiles/trafsim-master.dir/src/trafficsim/Node.cpp.o: CXX_COMPILER__tra
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/trafficsim
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 build CMakeFiles/trafsim-master.dir/src/trafficsim/OfficeBuilding.cpp.o: CXX_COMPILER__trafsim-master_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src/trafficsim/OfficeBuilding.cpp || cmake_object_order_depends_target_trafsim-master
   DEFINES = -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -151,8 +131,6 @@ build CMakeFiles/trafsim-master.dir/src/trafficsim/OfficeBuilding.cpp.o: CXX_COM
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/trafficsim
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 build CMakeFiles/trafsim-master.dir/src/trafficsim/Rando.cpp.o: CXX_COMPILER__trafsim-master_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src/trafficsim/Rando.cpp || cmake_object_order_depends_target_trafsim-master
   DEFINES = -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -161,8 +139,6 @@ build CMakeFiles/trafsim-master.dir/src/trafficsim/Rando.cpp.o: CXX_COMPILER__tr
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/trafficsim
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 build CMakeFiles/trafsim-master.dir/src/trafficsim/RoadIntersection.cpp.o: CXX_COMPILER__trafsim-master_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src/trafficsim/RoadIntersection.cpp || cmake_object_order_depends_target_trafsim-master
   DEFINES = -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -171,8 +147,6 @@ build CMakeFiles/trafsim-master.dir/src/trafficsim/RoadIntersection.cpp.o: CXX_C
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/trafficsim
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 build CMakeFiles/trafsim-master.dir/src/trafficsim/RoadJunction.cpp.o: CXX_COMPILER__trafsim-master_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src/trafficsim/RoadJunction.cpp || cmake_object_order_depends_target_trafsim-master
   DEFINES = -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -181,8 +155,6 @@ build CMakeFiles/trafsim-master.dir/src/trafficsim/RoadJunction.cpp.o: CXX_COMPI
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/trafficsim
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 build CMakeFiles/trafsim-master.dir/src/trafficsim/RoadTile.cpp.o: CXX_COMPILER__trafsim-master_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src/trafficsim/RoadTile.cpp || cmake_object_order_depends_target_trafsim-master
   DEFINES = -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -191,8 +163,6 @@ build CMakeFiles/trafsim-master.dir/src/trafficsim/RoadTile.cpp.o: CXX_COMPILER_
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/trafficsim
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 build CMakeFiles/trafsim-master.dir/src/trafficsim/RoadTrisection.cpp.o: CXX_COMPILER__trafsim-master_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src/trafficsim/RoadTrisection.cpp || cmake_object_order_depends_target_trafsim-master
   DEFINES = -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -201,8 +171,6 @@ build CMakeFiles/trafsim-master.dir/src/trafficsim/RoadTrisection.cpp.o: CXX_COM
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/trafficsim
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 build CMakeFiles/trafsim-master.dir/src/trafficsim/RoadTurn.cpp.o: CXX_COMPILER__trafsim-master_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src/trafficsim/RoadTurn.cpp || cmake_object_order_depends_target_trafsim-master
   DEFINES = -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -211,8 +179,6 @@ build CMakeFiles/trafsim-master.dir/src/trafficsim/RoadTurn.cpp.o: CXX_COMPILER_
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/trafficsim
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 build CMakeFiles/trafsim-master.dir/src/trafficsim/Statistics.cpp.o: CXX_COMPILER__trafsim-master_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src/trafficsim/Statistics.cpp || cmake_object_order_depends_target_trafsim-master
   DEFINES = -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -221,8 +187,6 @@ build CMakeFiles/trafsim-master.dir/src/trafficsim/Statistics.cpp.o: CXX_COMPILE
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/trafficsim
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 build CMakeFiles/trafsim-master.dir/src/trafficsim/StraightRoad.cpp.o: CXX_COMPILER__trafsim-master_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src/trafficsim/StraightRoad.cpp || cmake_object_order_depends_target_trafsim-master
   DEFINES = -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -231,8 +195,6 @@ build CMakeFiles/trafsim-master.dir/src/trafficsim/StraightRoad.cpp.o: CXX_COMPI
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/trafficsim
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 build CMakeFiles/trafsim-master.dir/src/trafficsim/Tile.cpp.o: CXX_COMPILER__trafsim-master_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src/trafficsim/Tile.cpp || cmake_object_order_depends_target_trafsim-master
   DEFINES = -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -241,8 +203,6 @@ build CMakeFiles/trafsim-master.dir/src/trafficsim/Tile.cpp.o: CXX_COMPILER__tra
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/trafficsim
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 build CMakeFiles/trafsim-master.dir/src/trafficsim/TimeLine.cpp.o: CXX_COMPILER__trafsim-master_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src/trafficsim/TimeLine.cpp || cmake_object_order_depends_target_trafsim-master
   DEFINES = -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -251,8 +211,6 @@ build CMakeFiles/trafsim-master.dir/src/trafficsim/TimeLine.cpp.o: CXX_COMPILER_
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/trafficsim
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 build CMakeFiles/trafsim-master.dir/src/trafficsim/TrafficLight.cpp.o: CXX_COMPILER__trafsim-master_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src/trafficsim/TrafficLight.cpp || cmake_object_order_depends_target_trafsim-master
   DEFINES = -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -261,8 +219,6 @@ build CMakeFiles/trafsim-master.dir/src/trafficsim/TrafficLight.cpp.o: CXX_COMPI
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/trafficsim
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 build CMakeFiles/trafsim-master.dir/src/trafficsim/TrafficLightNetwork.cpp.o: CXX_COMPILER__trafsim-master_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src/trafficsim/TrafficLightNetwork.cpp || cmake_object_order_depends_target_trafsim-master
   DEFINES = -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -271,8 +227,6 @@ build CMakeFiles/trafsim-master.dir/src/trafficsim/TrafficLightNetwork.cpp.o: CX
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/trafficsim
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 build CMakeFiles/trafsim-master.dir/src/core/Application.cpp.o: CXX_COMPILER__trafsim-master_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src/core/Application.cpp || cmake_object_order_depends_target_trafsim-master
   DEFINES = -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -281,8 +235,6 @@ build CMakeFiles/trafsim-master.dir/src/core/Application.cpp.o: CXX_COMPILER__tr
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/core
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 build CMakeFiles/trafsim-master.dir/src/core/Window.cpp.o: CXX_COMPILER__trafsim-master_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src/core/Window.cpp || cmake_object_order_depends_target_trafsim-master
   DEFINES = -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -291,8 +243,6 @@ build CMakeFiles/trafsim-master.dir/src/core/Window.cpp.o: CXX_COMPILER__trafsim
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/core
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 build CMakeFiles/trafsim-master.dir/src/core/main.cpp.o: CXX_COMPILER__trafsim-master_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src/core/main.cpp || cmake_object_order_depends_target_trafsim-master
   DEFINES = -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -301,8 +251,6 @@ build CMakeFiles/trafsim-master.dir/src/core/main.cpp.o: CXX_COMPILER__trafsim-m
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/core
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 build CMakeFiles/trafsim-master.dir/src/util/CsvRow.cpp.o: CXX_COMPILER__trafsim-master_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src/util/CsvRow.cpp || cmake_object_order_depends_target_trafsim-master
   DEFINES = -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -311,8 +259,6 @@ build CMakeFiles/trafsim-master.dir/src/util/CsvRow.cpp.o: CXX_COMPILER__trafsim
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/util
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 build CMakeFiles/trafsim-master.dir/src/util/DataHandler.cpp.o: CXX_COMPILER__trafsim-master_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src/util/DataHandler.cpp || cmake_object_order_depends_target_trafsim-master
   DEFINES = -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -321,8 +267,6 @@ build CMakeFiles/trafsim-master.dir/src/util/DataHandler.cpp.o: CXX_COMPILER__tr
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/util
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 build CMakeFiles/trafsim-master.dir/src/util/VectorMath.cpp.o: CXX_COMPILER__trafsim-master_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src/util/VectorMath.cpp || cmake_object_order_depends_target_trafsim-master
   DEFINES = -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -331,8 +275,6 @@ build CMakeFiles/trafsim-master.dir/src/util/VectorMath.cpp.o: CXX_COMPILER__tra
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   OBJECT_FILE_DIR = CMakeFiles/trafsim-master.dir/src/util
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
-  TARGET_PDB = a.pdb
 
 
 # =============================================================================
@@ -349,9 +291,8 @@ build a: CXX_EXECUTABLE_LINKER__trafsim-master_ CMakeFiles/trafsim-master.dir/sr
   OBJECT_DIR = CMakeFiles/trafsim-master.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_COMPILE_PDB = CMakeFiles/trafsim-master.dir/
   TARGET_FILE = a
-  TARGET_PDB = a.pdb
+  TARGET_PDB = a.dbg
 
 
 #############################################
@@ -724,8 +665,6 @@ build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Clock.cpp.o: C
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-system.pdb
 
 build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Err.cpp.o: CXX_COMPILER__sfml-system_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/System/Err.cpp || cmake_object_order_depends_target_sfml-system
   DEFINES = -DSFML_SYSTEM_EXPORTS
@@ -734,8 +673,6 @@ build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Err.cpp.o: CXX
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-system.pdb
 
 build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Lock.cpp.o: CXX_COMPILER__sfml-system_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/System/Lock.cpp || cmake_object_order_depends_target_sfml-system
   DEFINES = -DSFML_SYSTEM_EXPORTS
@@ -744,8 +681,6 @@ build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Lock.cpp.o: CX
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-system.pdb
 
 build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Mutex.cpp.o: CXX_COMPILER__sfml-system_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/System/Mutex.cpp || cmake_object_order_depends_target_sfml-system
   DEFINES = -DSFML_SYSTEM_EXPORTS
@@ -754,8 +689,6 @@ build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Mutex.cpp.o: C
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-system.pdb
 
 build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Sleep.cpp.o: CXX_COMPILER__sfml-system_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/System/Sleep.cpp || cmake_object_order_depends_target_sfml-system
   DEFINES = -DSFML_SYSTEM_EXPORTS
@@ -764,8 +697,6 @@ build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Sleep.cpp.o: C
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-system.pdb
 
 build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/String.cpp.o: CXX_COMPILER__sfml-system_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/System/String.cpp || cmake_object_order_depends_target_sfml-system
   DEFINES = -DSFML_SYSTEM_EXPORTS
@@ -774,8 +705,6 @@ build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/String.cpp.o: 
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-system.pdb
 
 build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Thread.cpp.o: CXX_COMPILER__sfml-system_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/System/Thread.cpp || cmake_object_order_depends_target_sfml-system
   DEFINES = -DSFML_SYSTEM_EXPORTS
@@ -784,8 +713,6 @@ build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Thread.cpp.o: 
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-system.pdb
 
 build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/ThreadLocal.cpp.o: CXX_COMPILER__sfml-system_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/System/ThreadLocal.cpp || cmake_object_order_depends_target_sfml-system
   DEFINES = -DSFML_SYSTEM_EXPORTS
@@ -794,8 +721,6 @@ build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/ThreadLocal.cp
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-system.pdb
 
 build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Time.cpp.o: CXX_COMPILER__sfml-system_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/System/Time.cpp || cmake_object_order_depends_target_sfml-system
   DEFINES = -DSFML_SYSTEM_EXPORTS
@@ -804,8 +729,6 @@ build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Time.cpp.o: CX
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-system.pdb
 
 build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/FileInputStream.cpp.o: CXX_COMPILER__sfml-system_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/System/FileInputStream.cpp || cmake_object_order_depends_target_sfml-system
   DEFINES = -DSFML_SYSTEM_EXPORTS
@@ -814,8 +737,6 @@ build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/FileInputStrea
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-system.pdb
 
 build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/MemoryInputStream.cpp.o: CXX_COMPILER__sfml-system_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/System/MemoryInputStream.cpp || cmake_object_order_depends_target_sfml-system
   DEFINES = -DSFML_SYSTEM_EXPORTS
@@ -824,8 +745,6 @@ build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/MemoryInputStr
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-system.pdb
 
 build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix/ClockImpl.cpp.o: CXX_COMPILER__sfml-system_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/System/Unix/ClockImpl.cpp || cmake_object_order_depends_target_sfml-system
   DEFINES = -DSFML_SYSTEM_EXPORTS
@@ -834,8 +753,6 @@ build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix/ClockImpl
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-system.pdb
 
 build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix/MutexImpl.cpp.o: CXX_COMPILER__sfml-system_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/System/Unix/MutexImpl.cpp || cmake_object_order_depends_target_sfml-system
   DEFINES = -DSFML_SYSTEM_EXPORTS
@@ -844,8 +761,6 @@ build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix/MutexImpl
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-system.pdb
 
 build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix/SleepImpl.cpp.o: CXX_COMPILER__sfml-system_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/System/Unix/SleepImpl.cpp || cmake_object_order_depends_target_sfml-system
   DEFINES = -DSFML_SYSTEM_EXPORTS
@@ -854,8 +769,6 @@ build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix/SleepImpl
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-system.pdb
 
 build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix/ThreadImpl.cpp.o: CXX_COMPILER__sfml-system_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/System/Unix/ThreadImpl.cpp || cmake_object_order_depends_target_sfml-system
   DEFINES = -DSFML_SYSTEM_EXPORTS
@@ -864,8 +777,6 @@ build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix/ThreadImp
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-system.pdb
 
 build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix/ThreadLocalImpl.cpp.o: CXX_COMPILER__sfml-system_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/System/Unix/ThreadLocalImpl.cpp || cmake_object_order_depends_target_sfml-system
   DEFINES = -DSFML_SYSTEM_EXPORTS
@@ -874,8 +785,6 @@ build _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix/ThreadLoc
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-system.pdb
 
 
 # =============================================================================
@@ -893,10 +802,9 @@ build _deps/sfml-build/lib/libsfml-system.so.2.5.1: CXX_SHARED_LIBRARY_LINKER__s
   PRE_LINK = :
   SONAME = libsfml-system.so.2.5
   SONAME_FLAG = -Wl,-soname,
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/
   TARGET_FILE = _deps/sfml-build/lib/libsfml-system.so.2.5.1
   TARGET_IMPLIB = _deps/sfml-build/lib/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-system.pdb
+  TARGET_PDB = sfml-system.so.dbg
 
 
 #############################################
@@ -992,8 +900,6 @@ build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-window.pdb
 
 build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Context.cpp.o: CXX_COMPILER__sfml-window_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Window/Context.cpp || cmake_object_order_depends_target_sfml-window
   DEFINES = -DSFML_WINDOW_EXPORTS
@@ -1002,8 +908,6 @@ build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Context.cpp.o:
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-window.pdb
 
 build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Cursor.cpp.o: CXX_COMPILER__sfml-window_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Window/Cursor.cpp || cmake_object_order_depends_target_sfml-window
   DEFINES = -DSFML_WINDOW_EXPORTS
@@ -1012,8 +916,6 @@ build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Cursor.cpp.o: 
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-window.pdb
 
 build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.o: CXX_COMPILER__sfml-window_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Window/GlContext.cpp || cmake_object_order_depends_target_sfml-window
   DEFINES = -DSFML_WINDOW_EXPORTS
@@ -1022,8 +924,6 @@ build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-window.pdb
 
 build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlResource.cpp.o: CXX_COMPILER__sfml-window_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Window/GlResource.cpp || cmake_object_order_depends_target_sfml-window
   DEFINES = -DSFML_WINDOW_EXPORTS
@@ -1032,8 +932,6 @@ build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlResource.cpp
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-window.pdb
 
 build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Joystick.cpp.o: CXX_COMPILER__sfml-window_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Window/Joystick.cpp || cmake_object_order_depends_target_sfml-window
   DEFINES = -DSFML_WINDOW_EXPORTS
@@ -1042,8 +940,6 @@ build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Joystick.cpp.o
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-window.pdb
 
 build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/JoystickManager.cpp.o: CXX_COMPILER__sfml-window_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Window/JoystickManager.cpp || cmake_object_order_depends_target_sfml-window
   DEFINES = -DSFML_WINDOW_EXPORTS
@@ -1052,8 +948,6 @@ build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/JoystickManage
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-window.pdb
 
 build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Keyboard.cpp.o: CXX_COMPILER__sfml-window_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Window/Keyboard.cpp || cmake_object_order_depends_target_sfml-window
   DEFINES = -DSFML_WINDOW_EXPORTS
@@ -1062,8 +956,6 @@ build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Keyboard.cpp.o
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-window.pdb
 
 build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.o: CXX_COMPILER__sfml-window_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Window/Mouse.cpp || cmake_object_order_depends_target_sfml-window
   DEFINES = -DSFML_WINDOW_EXPORTS
@@ -1072,8 +964,6 @@ build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.o: C
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-window.pdb
 
 build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Touch.cpp.o: CXX_COMPILER__sfml-window_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Window/Touch.cpp || cmake_object_order_depends_target_sfml-window
   DEFINES = -DSFML_WINDOW_EXPORTS
@@ -1082,8 +972,6 @@ build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Touch.cpp.o: C
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-window.pdb
 
 build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Sensor.cpp.o: CXX_COMPILER__sfml-window_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Window/Sensor.cpp || cmake_object_order_depends_target_sfml-window
   DEFINES = -DSFML_WINDOW_EXPORTS
@@ -1092,8 +980,6 @@ build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Sensor.cpp.o: 
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-window.pdb
 
 build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/SensorManager.cpp.o: CXX_COMPILER__sfml-window_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Window/SensorManager.cpp || cmake_object_order_depends_target_sfml-window
   DEFINES = -DSFML_WINDOW_EXPORTS
@@ -1102,8 +988,6 @@ build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/SensorManager.
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-window.pdb
 
 build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/VideoMode.cpp.o: CXX_COMPILER__sfml-window_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Window/VideoMode.cpp || cmake_object_order_depends_target_sfml-window
   DEFINES = -DSFML_WINDOW_EXPORTS
@@ -1112,8 +996,6 @@ build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/VideoMode.cpp.
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-window.pdb
 
 build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Window.cpp.o: CXX_COMPILER__sfml-window_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Window/Window.cpp || cmake_object_order_depends_target_sfml-window
   DEFINES = -DSFML_WINDOW_EXPORTS
@@ -1122,8 +1004,6 @@ build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Window.cpp.o: 
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-window.pdb
 
 build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp.o: CXX_COMPILER__sfml-window_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Window/WindowImpl.cpp || cmake_object_order_depends_target_sfml-window
   DEFINES = -DSFML_WINDOW_EXPORTS
@@ -1132,8 +1012,6 @@ build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-window.pdb
 
 build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/CursorImpl.cpp.o: CXX_COMPILER__sfml-window_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Window/Unix/CursorImpl.cpp || cmake_object_order_depends_target_sfml-window
   DEFINES = -DSFML_WINDOW_EXPORTS
@@ -1142,8 +1020,6 @@ build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/CursorImp
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-window.pdb
 
 build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/ClipboardImpl.cpp.o: CXX_COMPILER__sfml-window_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Window/Unix/ClipboardImpl.cpp || cmake_object_order_depends_target_sfml-window
   DEFINES = -DSFML_WINDOW_EXPORTS
@@ -1152,8 +1028,6 @@ build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/Clipboard
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-window.pdb
 
 build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/Display.cpp.o: CXX_COMPILER__sfml-window_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Window/Unix/Display.cpp || cmake_object_order_depends_target_sfml-window
   DEFINES = -DSFML_WINDOW_EXPORTS
@@ -1162,8 +1036,6 @@ build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/Display.c
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-window.pdb
 
 build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/InputImpl.cpp.o: CXX_COMPILER__sfml-window_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Window/Unix/InputImpl.cpp || cmake_object_order_depends_target_sfml-window
   DEFINES = -DSFML_WINDOW_EXPORTS
@@ -1172,8 +1044,6 @@ build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/InputImpl
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-window.pdb
 
 build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/SensorImpl.cpp.o: CXX_COMPILER__sfml-window_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Window/Unix/SensorImpl.cpp || cmake_object_order_depends_target_sfml-window
   DEFINES = -DSFML_WINDOW_EXPORTS
@@ -1182,8 +1052,6 @@ build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/SensorImp
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-window.pdb
 
 build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/VideoModeImpl.cpp.o: CXX_COMPILER__sfml-window_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Window/Unix/VideoModeImpl.cpp || cmake_object_order_depends_target_sfml-window
   DEFINES = -DSFML_WINDOW_EXPORTS
@@ -1192,8 +1060,6 @@ build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/VideoMode
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-window.pdb
 
 build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/WindowImplX11.cpp.o: CXX_COMPILER__sfml-window_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Window/Unix/WindowImplX11.cpp || cmake_object_order_depends_target_sfml-window
   DEFINES = -DSFML_WINDOW_EXPORTS
@@ -1202,8 +1068,6 @@ build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/WindowImp
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-window.pdb
 
 build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/GlxContext.cpp.o: CXX_COMPILER__sfml-window_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Window/Unix/GlxContext.cpp || cmake_object_order_depends_target_sfml-window
   DEFINES = -DSFML_WINDOW_EXPORTS
@@ -1212,8 +1076,6 @@ build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/GlxContex
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-window.pdb
 
 build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/GlxExtensions.cpp.o: CXX_COMPILER__sfml-window_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Window/Unix/GlxExtensions.cpp || cmake_object_order_depends_target_sfml-window
   DEFINES = -DSFML_WINDOW_EXPORTS
@@ -1222,8 +1084,6 @@ build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/GlxExtens
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-window.pdb
 
 build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/JoystickImpl.cpp.o: CXX_COMPILER__sfml-window_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Window/Unix/JoystickImpl.cpp || cmake_object_order_depends_target_sfml-window
   DEFINES = -DSFML_WINDOW_EXPORTS
@@ -1232,8 +1092,6 @@ build _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/JoystickI
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src
   OBJECT_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-window.pdb
 
 
 # =============================================================================
@@ -1251,10 +1109,9 @@ build _deps/sfml-build/lib/libsfml-window.so.2.5.1: CXX_SHARED_LIBRARY_LINKER__s
   PRE_LINK = :
   SONAME = libsfml-window.so.2.5
   SONAME_FLAG = -Wl,-soname,
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/
   TARGET_FILE = _deps/sfml-build/lib/libsfml-window.so.2.5.1
   TARGET_IMPLIB = _deps/sfml-build/lib/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-window.pdb
+  TARGET_PDB = sfml-window.so.dbg
 
 
 #############################################
@@ -1350,8 +1207,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/BlendMode.
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Color.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/Color.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1360,8 +1215,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Color.cpp.
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/Font.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1370,8 +1223,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.o
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Glsl.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/Glsl.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1380,8 +1231,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Glsl.cpp.o
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/GLCheck.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1390,8 +1239,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cp
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensions.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/GLExtensions.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1400,8 +1247,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensio
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Image.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/Image.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1410,8 +1255,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Image.cpp.
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ImageLoader.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/ImageLoader.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1420,8 +1263,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ImageLoade
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderStates.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/RenderStates.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1430,8 +1271,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderStat
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTexture.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/RenderTexture.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1440,8 +1279,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderText
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarget.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/RenderTarget.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1450,8 +1287,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarg
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/RenderWindow.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1460,8 +1295,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWind
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/Shader.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1470,8 +1303,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/Texture.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1480,8 +1311,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cp
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/TextureSaver.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/TextureSaver.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1490,8 +1319,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/TextureSav
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transform.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/Transform.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1500,8 +1327,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transform.
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transformable.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/Transformable.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1510,8 +1335,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transforma
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/View.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1520,8 +1343,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.o
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Vertex.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/Vertex.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1530,8 +1351,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Vertex.cpp
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLLoader.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/GLLoader.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1540,8 +1359,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLLoader.c
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/Shape.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1550,8 +1367,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/CircleShape.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/CircleShape.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1560,8 +1375,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/CircleShap
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RectangleShape.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/RectangleShape.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1570,8 +1383,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RectangleS
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ConvexShape.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/ConvexShape.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1580,8 +1391,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ConvexShap
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Sprite.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/Sprite.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1590,8 +1399,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Sprite.cpp
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/Text.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1600,8 +1407,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.o
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexArray.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/VertexArray.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1610,8 +1415,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexArra
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/VertexBuffer.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1620,8 +1423,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexBuff
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImpl.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/RenderTextureImpl.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1630,8 +1431,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderText
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplFBO.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/RenderTextureImplFBO.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1640,8 +1439,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderText
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplDefault.cpp.o: CXX_COMPILER__sfml-graphics_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src/SFML/Graphics/RenderTextureImplDefault.cpp || cmake_object_order_depends_target_sfml-graphics
   DEFINES = -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG
@@ -1650,8 +1447,6 @@ build _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderText
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/extlibs/headers/stb_image -I/usr/include/freetype2
   OBJECT_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
   OBJECT_FILE_DIR = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
 
 
 # =============================================================================
@@ -1669,10 +1464,9 @@ build _deps/sfml-build/lib/libsfml-graphics.so.2.5.1: CXX_SHARED_LIBRARY_LINKER_
   PRE_LINK = :
   SONAME = libsfml-graphics.so.2.5
   SONAME_FLAG = -Wl,-soname,
-  TARGET_COMPILE_PDB = _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/
   TARGET_FILE = _deps/sfml-build/lib/libsfml-graphics.so.2.5.1
   TARGET_IMPLIB = _deps/sfml-build/lib/
-  TARGET_PDB = _deps/sfml-build/lib/libsfml-graphics.pdb
+  TARGET_PDB = sfml-graphics.so.dbg
 
 
 #############################################
@@ -1839,8 +1633,6 @@ build _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/imgui-SFML.cpp.o: CXX_COM
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir
   OBJECT_FILE_DIR = _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir
-  TARGET_COMPILE_PDB = _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/
-  TARGET_PDB = _deps/imgui-sfml-build/libImGui-SFML.pdb
 
 build _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/__/imgui-src/imgui.cpp.o: CXX_COMPILER__ImGui-SFML_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src/imgui.cpp || cmake_object_order_depends_target_ImGui-SFML
   DEFINES = -DIMGUI_SFML_EXPORTS -DIMGUI_SFML_SHARED_LIB -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -1849,8 +1641,6 @@ build _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/__/imgui-src/imgui.cpp.o:
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir
   OBJECT_FILE_DIR = _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/__/imgui-src
-  TARGET_COMPILE_PDB = _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/
-  TARGET_PDB = _deps/imgui-sfml-build/libImGui-SFML.pdb
 
 build _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/__/imgui-src/imgui_draw.cpp.o: CXX_COMPILER__ImGui-SFML_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src/imgui_draw.cpp || cmake_object_order_depends_target_ImGui-SFML
   DEFINES = -DIMGUI_SFML_EXPORTS -DIMGUI_SFML_SHARED_LIB -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -1859,8 +1649,6 @@ build _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/__/imgui-src/imgui_draw.c
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir
   OBJECT_FILE_DIR = _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/__/imgui-src
-  TARGET_COMPILE_PDB = _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/
-  TARGET_PDB = _deps/imgui-sfml-build/libImGui-SFML.pdb
 
 build _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/__/imgui-src/imgui_tables.cpp.o: CXX_COMPILER__ImGui-SFML_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src/imgui_tables.cpp || cmake_object_order_depends_target_ImGui-SFML
   DEFINES = -DIMGUI_SFML_EXPORTS -DIMGUI_SFML_SHARED_LIB -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -1869,8 +1657,6 @@ build _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/__/imgui-src/imgui_tables
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir
   OBJECT_FILE_DIR = _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/__/imgui-src
-  TARGET_COMPILE_PDB = _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/
-  TARGET_PDB = _deps/imgui-sfml-build/libImGui-SFML.pdb
 
 build _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/__/imgui-src/imgui_widgets.cpp.o: CXX_COMPILER__ImGui-SFML_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src/imgui_widgets.cpp || cmake_object_order_depends_target_ImGui-SFML
   DEFINES = -DIMGUI_SFML_EXPORTS -DIMGUI_SFML_SHARED_LIB -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -1879,8 +1665,6 @@ build _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/__/imgui-src/imgui_widget
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir
   OBJECT_FILE_DIR = _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/__/imgui-src
-  TARGET_COMPILE_PDB = _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/
-  TARGET_PDB = _deps/imgui-sfml-build/libImGui-SFML.pdb
 
 build _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/__/imgui-src/misc/cpp/imgui_stdlib.cpp.o: CXX_COMPILER__ImGui-SFML_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src/misc/cpp/imgui_stdlib.cpp || cmake_object_order_depends_target_ImGui-SFML
   DEFINES = -DIMGUI_SFML_EXPORTS -DIMGUI_SFML_SHARED_LIB -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -1889,8 +1673,6 @@ build _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/__/imgui-src/misc/cpp/img
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir
   OBJECT_FILE_DIR = _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/__/imgui-src/misc/cpp
-  TARGET_COMPILE_PDB = _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/
-  TARGET_PDB = _deps/imgui-sfml-build/libImGui-SFML.pdb
 
 build _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/__/imgui-src/imgui_demo.cpp.o: CXX_COMPILER__ImGui-SFML_unscanned_ /home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src/imgui_demo.cpp || cmake_object_order_depends_target_ImGui-SFML
   DEFINES = -DIMGUI_SFML_EXPORTS -DIMGUI_SFML_SHARED_LIB -DIMGUI_USER_CONFIG=\"imconfig-SFML.h\"
@@ -1899,8 +1681,6 @@ build _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/__/imgui-src/imgui_demo.c
   INCLUDES = -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-src -I/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/sfml-src/include
   OBJECT_DIR = _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir
   OBJECT_FILE_DIR = _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/__/imgui-src
-  TARGET_COMPILE_PDB = _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/
-  TARGET_PDB = _deps/imgui-sfml-build/libImGui-SFML.pdb
 
 
 # =============================================================================
@@ -1918,9 +1698,8 @@ build _deps/imgui-sfml-build/libImGui-SFML.so: CXX_SHARED_LIBRARY_LINKER__ImGui-
   PRE_LINK = :
   SONAME = libImGui-SFML.so
   SONAME_FLAG = -Wl,-soname,
-  TARGET_COMPILE_PDB = _deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/
   TARGET_FILE = _deps/imgui-sfml-build/libImGui-SFML.so
-  TARGET_PDB = _deps/imgui-sfml-build/libImGui-SFML.pdb
+  TARGET_PDB = ImGui-SFML.so.dbg
 
 
 #############################################
@@ -2094,14 +1873,14 @@ build lib/sfml/all: phony _deps/sfml-build/all
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/BasicConfigVersion-SameMajorVersion.cmake.in /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCCompiler.cmake.in /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCCompilerABI.c /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCInformation.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCXXCompiler.cmake.in /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCXXInformation.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCompilerIdDetection.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCompileFeatures.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeFindBinUtils.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeGenericSystem.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeNinjaFindMake.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakePackageConfigHelpers.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeParseArguments.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeParseImplicitIncludeInfo.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeParseImplicitLinkInfo.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeParseLibraryArchitecture.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeSystem.cmake.in /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeTestCXXCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeTestCompilerCommon.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CheckFunctionExists.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CheckLibraryExists.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/ADSP-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/ARMCC-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/ARMClang-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/AppleClang-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Borland-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Bruce-C-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Compaq-C-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Cray-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/CrayClang-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GHS-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-C-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-C.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-CXX.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-FindBinUtils.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GNU.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/HP-C-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/HP-CXX-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/IAR-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Intel-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/LCC-C-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/MSVC-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/NVHPC-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/OrangeC-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/PGI-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/PathScale-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/SCO-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/SDCC-C-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/SunPro-C-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/TI-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Tasking-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Watcom-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/XL-C-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/XL-CXX-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/XLClang-C-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/zOS-C-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/ExternalProject/shared_internal_commands.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FetchContent.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FetchContent/CMakeLists.cmake.in /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FindGit.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FindOpenGL.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FindPackageMessage.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FindX11.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/GNUInstallDirs.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Internal/FeatureTesting.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/Linux-Determine-CXX.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/Linux-GNU-C.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/Linux-GNU-CXX.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/Linux-GNU.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/Linux-Initialize.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/Linux.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/UnixPaths.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/WriteBasicConfigVersionFile.cmake CMakeCache.txt CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeCXXCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake CMakeLists.txt _deps/imgui-sfml-src/CMakeLists.txt _deps/imgui-sfml-src/cmake/FindImGui.cmake _deps/sfml-src/CMakeLists.txt _deps/sfml-src/cmake/Config.cmake _deps/sfml-src/cmake/Macros.cmake _deps/sfml-src/cmake/Modules/FindFreetype.cmake _deps/sfml-src/cmake/Modules/FindUDev.cmake _deps/sfml-src/cmake/SFMLConfig.cmake.in _deps/sfml-src/cmake/SFMLConfigDependencies.cmake.in _deps/sfml-src/src/SFML/CMakeLists.txt _deps/sfml-src/src/SFML/Graphics/CMakeLists.txt _deps/sfml-src/src/SFML/System/CMakeLists.txt _deps/sfml-src/src/SFML/Window/CMakeLists.txt _deps/sfml-src/tools/pkg-config/sfml-all.pc.in _deps/sfml-src/tools/pkg-config/sfml-audio.pc.in _deps/sfml-src/tools/pkg-config/sfml-graphics.pc.in _deps/sfml-src/tools/pkg-config/sfml-network.pc.in _deps/sfml-src/tools/pkg-config/sfml-system.pc.in _deps/sfml-src/tools/pkg-config/sfml-window.pc.in lib/CMakeLists.txt lib/imgui-sfml/CMakeLists.txt lib/sfml/CMakeLists.txt res/car/blue_car.png res/car/brown_car.png res/car/green_car.png res/car/grey_car.png res/car/red_car.png res/car/teal_car.png res/car/white_car.png res/home_building.png res/home_road.png res/left_intersection.png res/left_junction.png res/left_trisection.png res/left_turn.png res/map1.csv res/office_building.png res/right_intersection.png res/right_junction.png res/right_trisection.png res/right_turn.png res/straight_road.png res/texture_list.txt
+build build.ninja: RERUN_CMAKE | /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/BasicConfigVersion-SameMajorVersion.cmake.in /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCInformation.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCXXInformation.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeGenericSystem.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakePackageConfigHelpers.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeParseArguments.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CheckFunctionExists.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CheckLibraryExists.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-C.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-CXX.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GNU.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/ExternalProject/shared_internal_commands.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FetchContent.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FetchContent/CMakeLists.cmake.in /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FindGit.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FindOpenGL.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FindPackageMessage.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FindX11.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/GNUInstallDirs.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/Linux-GNU-C.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/Linux-GNU-CXX.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/Linux-GNU.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/Linux-Initialize.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/Linux.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/UnixPaths.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/WriteBasicConfigVersionFile.cmake CMakeCache.txt CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeCXXCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake CMakeLists.txt _deps/imgui-sfml-src/CMakeLists.txt _deps/imgui-sfml-src/cmake/FindImGui.cmake _deps/sfml-src/CMakeLists.txt _deps/sfml-src/cmake/Config.cmake _deps/sfml-src/cmake/Macros.cmake _deps/sfml-src/cmake/Modules/FindFreetype.cmake _deps/sfml-src/cmake/Modules/FindUDev.cmake _deps/sfml-src/cmake/SFMLConfig.cmake.in _deps/sfml-src/cmake/SFMLConfigDependencies.cmake.in _deps/sfml-src/src/SFML/CMakeLists.txt _deps/sfml-src/src/SFML/Graphics/CMakeLists.txt _deps/sfml-src/src/SFML/System/CMakeLists.txt _deps/sfml-src/src/SFML/Window/CMakeLists.txt _deps/sfml-src/tools/pkg-config/sfml-all.pc.in _deps/sfml-src/tools/pkg-config/sfml-audio.pc.in _deps/sfml-src/tools/pkg-config/sfml-graphics.pc.in _deps/sfml-src/tools/pkg-config/sfml-network.pc.in _deps/sfml-src/tools/pkg-config/sfml-system.pc.in _deps/sfml-src/tools/pkg-config/sfml-window.pc.in lib/CMakeLists.txt lib/imgui-sfml/CMakeLists.txt lib/sfml/CMakeLists.txt res/car/blue_car.png res/car/brown_car.png res/car/green_car.png res/car/grey_car.png res/car/red_car.png res/car/teal_car.png res/car/white_car.png res/home_building.png res/home_road.png res/left_intersection.png res/left_junction.png res/left_trisection.png res/left_turn.png res/map1.csv res/office_building.png res/right_intersection.png res/right_junction.png res/right_trisection.png res/right_turn.png res/straight_road.png res/texture_list.txt
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/BasicConfigVersion-SameMajorVersion.cmake.in /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCCompiler.cmake.in /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCCompilerABI.c /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCInformation.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCXXCompiler.cmake.in /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCXXInformation.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCompilerIdDetection.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCompileFeatures.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeFindBinUtils.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeGenericSystem.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeNinjaFindMake.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakePackageConfigHelpers.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeParseArguments.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeParseImplicitIncludeInfo.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeParseImplicitLinkInfo.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeParseLibraryArchitecture.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeSystem.cmake.in /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeTestCXXCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeTestCompilerCommon.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CheckFunctionExists.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CheckLibraryExists.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/ADSP-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/ARMCC-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/ARMClang-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/AppleClang-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Borland-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Bruce-C-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Compaq-C-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Cray-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/CrayClang-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GHS-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-C-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-C.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-CXX.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-FindBinUtils.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GNU.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/HP-C-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/HP-CXX-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/IAR-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Intel-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/LCC-C-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/MSVC-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/NVHPC-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/OrangeC-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/PGI-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/PathScale-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/SCO-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/SDCC-C-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/SunPro-C-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/TI-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Tasking-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Watcom-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/XL-C-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/XL-CXX-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/XLClang-C-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/zOS-C-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/ExternalProject/shared_internal_commands.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FetchContent.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FetchContent/CMakeLists.cmake.in /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FindGit.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FindOpenGL.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FindPackageMessage.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FindX11.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/GNUInstallDirs.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Internal/FeatureTesting.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/Linux-Determine-CXX.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/Linux-GNU-C.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/Linux-GNU-CXX.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/Linux-GNU.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/Linux-Initialize.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/Linux.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/UnixPaths.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/WriteBasicConfigVersionFile.cmake CMakeCache.txt CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeCXXCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake CMakeLists.txt _deps/imgui-sfml-src/CMakeLists.txt _deps/imgui-sfml-src/cmake/FindImGui.cmake _deps/sfml-src/CMakeLists.txt _deps/sfml-src/cmake/Config.cmake _deps/sfml-src/cmake/Macros.cmake _deps/sfml-src/cmake/Modules/FindFreetype.cmake _deps/sfml-src/cmake/Modules/FindUDev.cmake _deps/sfml-src/cmake/SFMLConfig.cmake.in _deps/sfml-src/cmake/SFMLConfigDependencies.cmake.in _deps/sfml-src/src/SFML/CMakeLists.txt _deps/sfml-src/src/SFML/Graphics/CMakeLists.txt _deps/sfml-src/src/SFML/System/CMakeLists.txt _deps/sfml-src/src/SFML/Window/CMakeLists.txt _deps/sfml-src/tools/pkg-config/sfml-all.pc.in _deps/sfml-src/tools/pkg-config/sfml-audio.pc.in _deps/sfml-src/tools/pkg-config/sfml-graphics.pc.in _deps/sfml-src/tools/pkg-config/sfml-network.pc.in _deps/sfml-src/tools/pkg-config/sfml-system.pc.in _deps/sfml-src/tools/pkg-config/sfml-window.pc.in lib/CMakeLists.txt lib/imgui-sfml/CMakeLists.txt lib/sfml/CMakeLists.txt res/car/blue_car.png res/car/brown_car.png res/car/green_car.png res/car/grey_car.png res/car/red_car.png res/car/teal_car.png res/car/white_car.png res/home_building.png res/home_road.png res/left_intersection.png res/left_junction.png res/left_trisection.png res/left_turn.png res/map1.csv res/office_building.png res/right_intersection.png res/right_junction.png res/right_trisection.png res/right_turn.png res/straight_road.png res/texture_list.txt: phony
+build /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/BasicConfigVersion-SameMajorVersion.cmake.in /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCInformation.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCXXInformation.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeGenericSystem.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakePackageConfigHelpers.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeParseArguments.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CheckFunctionExists.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CheckLibraryExists.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-C.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-CXX.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GNU.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/ExternalProject/shared_internal_commands.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FetchContent.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FetchContent/CMakeLists.cmake.in /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FindGit.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FindOpenGL.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FindPackageMessage.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FindX11.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/GNUInstallDirs.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/Linux-GNU-C.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/Linux-GNU-CXX.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/Linux-GNU.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/Linux-Initialize.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/Linux.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/UnixPaths.cmake /opt/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/WriteBasicConfigVersionFile.cmake CMakeCache.txt CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeCXXCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake CMakeLists.txt _deps/imgui-sfml-src/CMakeLists.txt _deps/imgui-sfml-src/cmake/FindImGui.cmake _deps/sfml-src/CMakeLists.txt _deps/sfml-src/cmake/Config.cmake _deps/sfml-src/cmake/Macros.cmake _deps/sfml-src/cmake/Modules/FindFreetype.cmake _deps/sfml-src/cmake/Modules/FindUDev.cmake _deps/sfml-src/cmake/SFMLConfig.cmake.in _deps/sfml-src/cmake/SFMLConfigDependencies.cmake.in _deps/sfml-src/src/SFML/CMakeLists.txt _deps/sfml-src/src/SFML/Graphics/CMakeLists.txt _deps/sfml-src/src/SFML/System/CMakeLists.txt _deps/sfml-src/src/SFML/Window/CMakeLists.txt _deps/sfml-src/tools/pkg-config/sfml-all.pc.in _deps/sfml-src/tools/pkg-config/sfml-audio.pc.in _deps/sfml-src/tools/pkg-config/sfml-graphics.pc.in _deps/sfml-src/tools/pkg-config/sfml-network.pc.in _deps/sfml-src/tools/pkg-config/sfml-system.pc.in _deps/sfml-src/tools/pkg-config/sfml-window.pc.in lib/CMakeLists.txt lib/imgui-sfml/CMakeLists.txt lib/sfml/CMakeLists.txt res/car/blue_car.png res/car/brown_car.png res/car/green_car.png res/car/grey_car.png res/car/red_car.png res/car/teal_car.png res/car/white_car.png res/home_building.png res/home_road.png res/left_intersection.png res/left_junction.png res/left_trisection.png res/left_turn.png res/map1.csv res/office_building.png res/right_intersection.png res/right_junction.png res/right_trisection.png res/right_turn.png res/straight_road.png res/texture_list.txt: phony
 
 
 #############################################

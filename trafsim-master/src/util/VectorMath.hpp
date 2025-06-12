@@ -3,6 +3,7 @@
 #include <math.h> // cos and other math stuff
 
 #include <SFML/System/Vector2.hpp>
+#include <SFML/Graphics.hpp>
 
 namespace ts
 {
@@ -14,6 +15,8 @@ public:
     static float Size(const sf::Vector2f &v);
 
     static float Distance(const sf::Vector2f &a, const sf::Vector2f &b);
+
+    static float Dot(const sf::Vector2f &a, const sf::Vector2f &b);
 
     //Returns angle in Radians
     static float Angle(const sf::Vector2f &a, const sf::Vector2f &b);

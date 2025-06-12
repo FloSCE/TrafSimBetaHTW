@@ -35,6 +35,21 @@ void Window::clear()
 
 void Window::display()
 {
+    // Show accident counter
+    ImGui::SetNextWindowPos(ImVec2(window_.getSize().x - 180, window_.getSize().y - 50), ImGuiCond_Always);
+    ImGui::SetNextWindowSize(ImVec2(180, 40), ImGuiCond_Always);
+    ImGui::Begin("Accident Counter", nullptr, 
+        ImGuiWindowFlags_NoTitleBar | 
+        ImGuiWindowFlags_NoResize | 
+        ImGuiWindowFlags_NoMove | 
+        ImGuiWindowFlags_NoScrollbar | 
+        ImGuiWindowFlags_NoCollapse | 
+        ImGuiWindowFlags_NoBackground);
+    
+    ImGui::SetWindowFontScale(1.0f);
+    ImGui::Text("Car Accidents: %d", Car::getAccidentCount());
+    ImGui::End();
+
     ImGui::SFML::Render(window_);
     window_.display();
 }
