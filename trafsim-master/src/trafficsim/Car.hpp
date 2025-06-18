@@ -32,6 +32,11 @@ public:
 
     static unsigned int getAccidentCount() { return accident_count_; }
 
+// Neu--------------------------------------------------------------------------------------------------------------------
+    bool hasRightOfWay(const Car& other) const;
+//------------------------------------------------------------------------------------------------------------------------
+
+
 private:
     void findRoute();
     // returns true if there is nothing infront of the car
@@ -39,6 +44,11 @@ private:
     void calculateVelocity(float deltatime, const std::vector<std::unique_ptr<Car>> &cars, const std::map<unsigned int, std::unique_ptr<TrafficLightNetwork>> &light_handlers);
     bool checkAccident(const std::vector<std::unique_ptr<Car>> &cars);
     void handleAccident();
+
+// Neu -------------------------------------------------------------------------------------------------------------------
+    sf::Clock wait_timer_;
+//------------------------------------------------------------------------------------------------------------------------
+
     
 private:
     const std::shared_ptr<Node> pos_, dest_;

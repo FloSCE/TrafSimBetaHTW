@@ -1,9 +1,10 @@
 #include "Car.hpp"
-#include "util/VectorMath.hpp"
+#include "util/VectorMath.hpp" //
 
 #include <iostream>
 #include <algorithm> // std::max
 #include "Rando.hpp"
+
 
 namespace ts
 {
@@ -45,6 +46,38 @@ void Car::update(const sf::Time &game_time, float deltatime, const std::vector<s
     {
         handleAccident();
     }
+
+// Neu--------------------------------------------------------------------------------------------------------------------
+// Pruft ob Vorfahrt
+    bool blockiert = false;
+    for (const auto& otherCar : cars)
+    {
+        if (otherCar.get() == this) continue;
+
+        if (!hasRightOfWay(*otherCar))
+        {
+            blockiert = true;
+            break;
+        }
+    }
+//------------------------------------------------------------------------------------------------------------------------
+
+// Neu--------------------------------------------------------------------------------------------------------------------
+    if (blockiert)
+    {
+        if (wait_timer_.getElapsedTime().asSeconds() < 2.0f)
+        {
+            return; // warten
+        }
+
+        wait_timer_.restart(); // nach warten zurücksetzten
+    }
+    else
+    {
+        wait_timer_.restart(); // kein warten -> zurücksetzen
+    }
+//------------------------------------------------------------------------------------------------------------------------
+
 
     float delta_step = deltatime * speed_;
     if (VectorMath::Distance(shape_.getPosition(), route_.front()->getPos()) < delta_step)
@@ -128,7 +161,109 @@ void Car::calculateVelocity(float deltatime, const std::vector<std::unique_ptr<C
         }
     }
     speed_ = std::min(speed_ + acceleration_ * deltatime, 200.f);
+
+
+
+// Neu--------------------------------------------------------------------------------------------------------------------
+// Neu Zielknoten bereits belegt?
+    if (!route_.empty())
+    {
+        const auto& myNext = route_.front();
+        for (const auto& car : cars)
+        {
+            if (car.get() == this) continue;
+
+            if (!car->route_.empty())
+            {
+                auto otherPos = car->shape_.getPosition();
+                auto nodePos = myNext->getPos();
+
+                float distance = VectorMath::Distance(otherPos, nodePos);
+                if (distance < 80.f)
+                {
+                    speed_ = std::max(speed_ - acceleration_ * deltatime * 1.5f, 0.f);
+                    return;
+                }
+            }
+        }
+    }
+//------------------------------------------------------------------------------------------------------------------------
+
+// Neu--------------------------------------------------------------------------------------------------------------------
+// Neu Vorfahrt beachten
+    for (const auto& car : cars)
+    {
+        if (car.get() == this) continue;
+
+        if (!hasRightOfWay(*car))
+        {
+            speed_ = std::max(speed_ - acceleration_ * deltatime, 0.f);
+            return;
+        }
+    }
+//------------------------------------------------------------------------------------------------------------------------
+
+// Neu--------------------------------------------------------------------------------------------------------------------
+// Neu beide Autos wollen zur gleichen Kreuzung?
+    for (const auto &car : cars)
+    {
+        if (car.get() == this) continue;
+
+        if (!route_.empty() && !car->route_.empty())
+        {
+            auto myNext = route_.front();
+            auto otherNext = car->route_.front();
+
+            if (myNext == otherNext)
+            {
+                float dist = VectorMath::Distance(car->shape_.getPosition(), myNext->getPos());
+                if (dist < 80.f)
+                {
+                    speed_ = 0;
+                    return;
+                }
+            }
+        }
+    }
+
+// Neu Kollision mit Autos direkt vor vermeiden
+    for (const auto &car : cars)
+    {
+        if (car->shape_.getGlobalBounds().contains(shape_.getPosition() + dir_ * shape_.getSize().y) ||
+            car->shape_.getGlobalBounds().contains(shape_.getPosition() + dir_ * shape_.getSize().y * 0.51f))
+        {
+            speed_ = 0;
+            return;
+        }
+    }
+
+//  Ampeln beachten
+    for (auto ita = light_handlers.begin(); ita != light_handlers.end(); ++ita)
+    {
+        const auto &lights = ita->second->getLights();
+
+        for (const auto &light : lights)
+        {
+            if (!light->canDrive())
+            {
+                if (light->getBlocker().getGlobalBounds().contains(shape_.getPosition() + dir_ * shape_.getSize().y) ||
+                    light->getBlocker().getGlobalBounds().contains(shape_.getPosition() + dir_ * shape_.getSize().y * 0.51f))
+                {
+                    speed_ = 0;
+                    return;
+                }
+            }
+        }
+    }
+
+// Neu Alles frei – beschleunigen
+    speed_ = std::min(speed_ + acceleration_ * deltatime, 200.f);
+//------------------------------------------------------------------------------------------------------------------------
 }
+
+
+
+
 
 void Car::findRoute()
 {
@@ -157,6 +292,7 @@ bool Car::checkAccident(const std::vector<std::unique_ptr<Car>> &cars)
     return false;
 }
 
+
 void Car::handleAccident()
 {
     is_in_accident_ = true;
@@ -174,4 +310,59 @@ void Car::handleAccident()
         findRoute();
     }
 }
+
+// Neu--------------------------------------------------------------------------------------------------------------------
+// Richtung für Vorfahrt
+int directionToIndex(const sf::Vector2f& dir)
+{
+    if (std::fabs(dir.x - 1) < 0.5 && std::fabs(dir.y) < 0.5) return 0; // rechts
+    if (std::fabs(dir.y - 1) < 0.5 && std::fabs(dir.x) < 0.5) return 1; // unten
+    if (std::fabs(dir.x + 1) < 0.5 && std::fabs(dir.y) < 0.5) return 2; // links
+    if (std::fabs(dir.y + 1) < 0.5 && std::fabs(dir.x) < 0.5) return 3; // oben
+    return -1;
+}
+//------------------------------------------------------------------------------------------------------------------------
+
+// Neu--------------------------------------------------------------------------------------------------------------------
+// Logik Distanz und Richtung
+bool Car::hasRightOfWay(const Car& other) const
+{
+    if (route_.empty() || other.route_.empty()) return true;
+
+    auto myNext = route_.front();
+    auto otherNext = other.route_.front();
+    if (myNext != otherNext) return true;
+
+    float myDist = VectorMath::Distance(shape_.getPosition(), myNext->getPos());
+    float otherDist = VectorMath::Distance(other.shape_.getPosition(), otherNext->getPos());
+
+    if (myDist > 400.f) return true;
+    if (otherDist > 400.f) return true;
+
+    if (myDist < otherDist) return true;
+
+    sf::Vector2f myDir = VectorMath::Normalize(myNext->getPos() - shape_.getPosition());
+    sf::Vector2f otherDir = VectorMath::Normalize(otherNext->getPos() - other.shape_.getPosition());
+
+    int myIndex = directionToIndex(myDir);
+    int otherIndex = directionToIndex(otherDir);
+
+    if (myIndex == -1 || otherIndex == -1) return true;
+
+    // Normalfall: Rechts vor Links
+    if ((myIndex + 1) % 4 == otherIndex)
+    {
+        return false; // Ich muss warten
+    }
+
+    // Erweiterung: Ich fahre durch, anderer will einbiegen
+    if ((otherIndex + 1) % 4 == myIndex)
+    {
+        return false;
+    }
+
+    return true;
+}
+//------------------------------------------------------------------------------------------------------------------------
+
 } // namespace ts

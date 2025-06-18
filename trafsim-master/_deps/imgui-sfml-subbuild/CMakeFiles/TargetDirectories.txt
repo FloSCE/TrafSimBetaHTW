@@ -1,3 +1,0 @@
-/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-subbuild/CMakeFiles/imgui-sfml-populate.dir
-/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-subbuild/CMakeFiles/edit_cache.dir
-/home/spectradlaw/Desktop/Repositorys/Trafsim/trafsim-master/_deps/imgui-sfml-subbuild/CMakeFiles/rebuild_cache.dir

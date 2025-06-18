@@ -1,0 +1,8 @@
+trafsim-master/build/
+trafsim-master/build/
+*.o
+trafsim-master/CMakeFiles/
+trafsim-master/CMakeCache.txt
+trafsim-master/cmake_install.cmake
+trafsim-master/build.ninja
+trafsim-master/_deps/
