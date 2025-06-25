@@ -273,7 +273,7 @@ void Car::findRoute()
 
 bool Car::checkAccident(const std::vector<std::unique_ptr<Car>> &cars)
 {
-    const float MIN_SAFE_DISTANCE = shape_.getSize().y * 0.1f; // 10% der Fahrzeuglänge als Mindestabstand
+    const float MIN_SAFE_DISTANCE = shape_.getSize().y * 0.05f; // 10% der Fahrzeuglänge als Mindestabstand
     
     for (const auto &car : cars)
     {
@@ -298,6 +298,7 @@ void Car::handleAccident()
     is_in_accident_ = true;
     speed_ = 0;
     accident_count_++; // Increase accident counter
+    createAccidentGraphics();
     
     // Block the current road section
     if (prev_ && route_.size() > 0)
@@ -310,6 +311,32 @@ void Car::handleAccident()
         findRoute();
     }
 }
+
+// Creates a larger red rectangle to indicate an accident
+// This rectangle is drawn instead of the normal car shape when in an accident
+void Car::createAccidentGraphics()
+{
+    accident_shape_.setSize(shape_.getSize() * 1.5f);
+    accident_shape_.setPosition(shape_.getPosition());
+    accident_shape_.setFillColor(sf::Color::Red);
+    accident_shape_.setOrigin(accident_shape_.getSize() / 2.f);
+}
+
+
+// Draws the car or the accident shape depending on whether the car is in an accident
+// If the car is in an accident, it draws the accident shape instead of the normal car
+void Car::draw(sf::RenderTarget &target, sf::RenderStates states) const
+{
+    if (is_in_accident_)
+    {
+        target.draw(accident_shape_, states);
+    } else
+    {
+        target.draw(shape_, states);
+    }
+    // Draw the accident shape if in accident
+}
+
 
 // Neu--------------------------------------------------------------------------------------------------------------------
 // Richtung für Vorfahrt

@@ -44,6 +44,7 @@ private:
     void calculateVelocity(float deltatime, const std::vector<std::unique_ptr<Car>> &cars, const std::map<unsigned int, std::unique_ptr<TrafficLightNetwork>> &light_handlers);
     bool checkAccident(const std::vector<std::unique_ptr<Car>> &cars);
     void handleAccident();
+    void createAccidentGraphics();
 
 // Neu -------------------------------------------------------------------------------------------------------------------
     sf::Clock wait_timer_;
@@ -62,6 +63,7 @@ private:
     sf::Vector2f dir_;
     static std::vector<const sf::Texture*> Textures_;
     bool is_in_accident_ = false;
+    sf::AccidentShape accident_shape_;
     static unsigned int accident_count_;
 
 };
