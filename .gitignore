@@ -1,6 +1,7 @@
 trafsim-master/build/
 trafsim-master/build/
 *.o
+.vscode/
 trafsim-master/CMakeFiles/
 trafsim-master/CMakeCache.txt
 trafsim-master/cmake_install.cmake
